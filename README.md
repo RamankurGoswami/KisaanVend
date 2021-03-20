@@ -1,8 +1,8 @@
 ### Team Members
 
 - Ramankur Goswami
-- Shivam Purohit 
-- Pranjal Srivastava
+- Shivam Purohit (https://github.com/ShivamPurohit)
+- Pranjal Srivastava (https://github.com/pranjals149)
 
 
 ### Problem Statement
