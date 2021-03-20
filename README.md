@@ -4,7 +4,6 @@
 - Shivam Purohit 
 - Pranjal Srivastava
 
-### Track Choosen - Open Innovation
 
 ### Problem Statement
 
